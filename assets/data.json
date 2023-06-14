@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "driver": {
+      "name": "driver1",
+      "telephone": "+79211111111"
+    },
+    "position": {
+      "lat": 55.680471,
+      "lng": 37.643615
+    },
+    "category": "cargo"
+  },
+  {
+    "id": "2",
+    "driver": {
+      "name": "driver2",
+      "telephone": "+123"
+    },
+    "position": {
+      "lat": 55.809632,
+      "lng": 37.713602
+    },
+    "category": "passengers"
+  },
+  {
+    "id": "3",
+    "driver": {
+      "name": "driver3",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.826713,
+      "lng": 37.655025
+    },
+    "category": "cargo"
+  },
+  {
+    "id": "4",
+    "driver": {
+      "name": "driver4",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.819260,
+      "lng": 37.471025
+    },
+    "category": "passengers"
+  },
+  {
+    "id": "5",
+    "driver": {
+      "name": "driver5",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.813150,
+      "lng": 37.456283
+    },
+    "category": "special"
+  },
+  {
+    "id": "6",
+    "driver": {
+      "name": "driver6",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.624953,
+      "lng": 37.630068
+    },
+    "category": "cargo"
+  },
+  {
+    "id": "7",
+    "driver": {
+      "name": "driver7",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.638872,
+      "lng": 37.555704
+    },
+    "category": "special"
+  },
+  {
+    "id": "8",
+    "driver": {
+      "name": "driver8",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.755060,
+      "lng": 37.431275
+    },
+    "category": "cargo"
+  },
+  {
+    "id": "9",
+    "driver": {
+      "name": "driver9",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.874222,
+      "lng": 37.548581
+    },
+    "category": "cargo"
+  },
+  {
+    "id": "10",
+    "driver": {
+      "name": "driver10",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.932828,
+      "lng": 37.368590
+    },
+    "category": "cargo"
+  },
+  {
+    "id": "11",
+    "driver": {
+      "name": "driver11",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.982962,
+      "lng": 37.451935
+    },
+    "category": "special"
+  },
+  {
+    "id": "12",
+    "driver": {
+      "name": "driver12",
+      "telephone": "+1234545"
+    },
+    "position": {
+      "lat": 55.987368,
+      "lng": 37.683282
+    },
+    "category": "cargo"
+  }
+]

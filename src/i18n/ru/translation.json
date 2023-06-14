@@ -1,0 +1,18 @@
+{
+  "Pick language": "Выбор языка",
+  "VEHICLE_SHORT": "ТС",
+  "Settings": "Настройки",
+  "WA_TEMPLATE": "Добрый день, подскажите пожалуйста, какой номер заказа у вас сейчас в работе",
+  "Call": "Позвонить",
+  "Message": "Написать",
+  "Accept": "Применить",
+  "VEHICLES_SCREEN": "Список ТС",
+  "VEHICLE_SCREEN": "Параметры ТС",
+  "Category": "Категория ТС",
+  "Driver": "Водитель",
+  "Telephone": "Телефон",
+  "Vehicle category filter": "Фильтр категорий ТС",
+  "passengers": "Пассажирский",
+  "cargo": "Грузовой",
+  "special": "Спецтранспорт"
+}
