@@ -12,6 +12,7 @@ web-build/
 yarn-error.log
 eas.json
 tags
+tags.lock
 
 # macOS
 .DS_Store

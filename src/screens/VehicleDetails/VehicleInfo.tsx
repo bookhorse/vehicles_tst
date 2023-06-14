@@ -34,7 +34,11 @@ const VehicleInfo = ({vehicle}: Props) => {
 
   return (
     <View style={styles.container}>
-      <InfoField label={t('Category')} value={category} icon={<CategoryIcon category={category} />} />
+      <InfoField
+        label={t('Category')}
+        value={t(category)}
+        icon={<CategoryIcon category={category} />}
+      />
       <InfoField label={t('Driver')} value={driver.name} />
       <InfoField label={t('Telephone')} value={driver.telephone} />
     </View>
